@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bdbd5b2f-8d52-4b5e-8a89-a2378f4a85ba" name="Langchain+LLM">
+        <fileTransfer rootFolder="/data/lizhichao/langchain-ChatGLM" accessType="SFTP" host="116.63.179.212" port="22" sshConfigId="e506e5a0-3c5d-4aa0-8b99-1d1daf5b6690" sshConfig="zzsn@116.63.179.212:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

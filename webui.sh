@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 nohup python webui.py --model-name chatglm2-6b >> logs_webui.log 2>&1 &

@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 nohup python api.py >> logs_api.log 2>&1 &
